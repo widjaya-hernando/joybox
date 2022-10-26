@@ -1,0 +1,25 @@
+{
+  "name": "sleekflow-assesment",
+  "version": "1.0.0",
+  "description": "\"# sleekflow-assesment\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/widjaya-hernando/sleekflow-assesment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/widjaya-hernando/sleekflow-assesment/issues"
+  },
+  "homepage": "https://github.com/widjaya-hernando/sleekflow-assesment#readme",
+  "dependencies": {
+    "pg": "^8.8.0",
+    "sequelize": "^6.25.3",
+    "sequelize-cli": "^6.5.1"
+  }
+}
